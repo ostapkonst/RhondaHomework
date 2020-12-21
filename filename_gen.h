@@ -2,6 +2,7 @@
 
 #include <string>
 #include <fstream>
+#include <cstdlib>
 
 static std::string gen_random(int random_len) {
 	std::string tmp_s;

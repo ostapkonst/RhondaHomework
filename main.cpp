@@ -4,6 +4,7 @@
 #include <iostream>
 #include <string>
 #include <ctime>
+#include <cstdlib>
 
 #include "long_num.h"
 #include "external_sort.h"
