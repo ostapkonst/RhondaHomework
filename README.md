@@ -19,4 +19,5 @@
 ## Доказательство запуска на встроенной системе
 
 Одним из требований была указана возможность запуска на встроенной системе. В качестве таковой, была выбранна Raspberry PI.
-  ![Confirmation of running code on an embedded system](raspberrypi_build_success.jpg)
+
+![Confirmation of running code on an embedded system](raspberrypi_build_success.jpg)
